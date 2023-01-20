@@ -1,7 +1,0 @@
-### Maven template
-*.jar
-/target/
-/out/
-.idea
-*.xml
-*.iml
